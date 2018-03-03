@@ -6,7 +6,7 @@
 * @package sitesplat BBcore
 * @copyright (c) 2015 SiteSplat All rights reserved
 * @license Proprietary
-* Brazilian Portuguese translation by Leinad4Mind (c) 2016 https://www.patreon.com/leinad4mind  and update by eunaumtenhoid (c) 2017 [ver 3.2.5] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by Leinad4Mind (c) 2016 https://www.patreon.com/leinad4mind  and update by eunaumtenhoid (c) 2017 [ver 3.2.6] (https://github.com/phpBBTraducoes)
 */
 
 /**
@@ -42,7 +42,7 @@ $lang = array_merge($lang, array(
 	'UCP_MAIN_DRAFTS'				 => 'Administrar Rascunhos',
 	'UCP_MAIN_ATTACHMENTS'			 => 'Administrar Anexos',
 
-	'USER_PANEL'					 => 'Painel de Controlo',
+	'USER_PANEL'					 => 'Painel de Controle',
 	'UCP_PROFILE'					 => 'Perfil',
 	'UCP_PROFILE_PROFILE'			 => 'Editar Perfil',
 	'UCP_PROFILE_SIGNITURE'			 => 'Editar Assinatura',
@@ -64,14 +64,14 @@ $lang = array_merge($lang, array(
 	'UCP_PM_OUTBOX'					 => 'Caixa de Saída',
 	'UCP_PM_SENTBOX'				 => 'Mensagens Enviadas',
 	'UCP_PM_OPTIONS'				 => 'Opções (Regras e Pastas)',
-	'UCP_NO_USER_CHANGE_ALLOWED'	 => '**Não é permitido alterar o Nome de Utilizador**',
+	'UCP_NO_USER_CHANGE_ALLOWED'	 => '**Não é permitido alterar o Nome de Usuário**',
 	'UCP_REGISTER_EMAIL_EXPLAIN'	 => 'Por favor, não utilize emails descartáveis',
 
 	'WIDTH_SIZE'					 => 'largura',
 	'PIXEL_SIZE'					 => 'px',
 	'HEIGHT_SIZE'					 => 'altura',
 
-	'UCP_GROUPS'					 => 'Grupos de Utilizadores',
+	'UCP_GROUPS'					 => 'Grupos de Usuários',
 	'UCP_GROUPS_MEMBERSHIP'			 => 'Editar Inscrições em Grupos',
 	'UCP_GROUPS_MANAGE'				 => 'Administrar grupos',
 
@@ -96,7 +96,7 @@ $lang = array_merge($lang, array(
 	'DELETE_POST_SOFT_WARN'			 => 'Poderá ser recuperada',
 	'DELETE_POST_PERMANENT_WARN'	 => 'NÃO poderá ser recuperada',
 
-	'POLL_MAX_OPTIONS_EXPLAIN_ALT'	 => 'Introduza o número máx. de opções que o utilizador poderá selecionar',
+	'POLL_MAX_OPTIONS_EXPLAIN_ALT'	 => 'Introduza o número máx. de opções que o usuário poderá selecionar',
 	'POLL_VOTE_CHANGE_LABEL'		 => 'Permitir Alterar Voto',
 	'NO_VOTES_NA'					 => 'N/A',
 	'NOT_AVAILABLE'					 => 'Indisponível',
@@ -108,7 +108,7 @@ $lang = array_merge($lang, array(
 	'ATTACH_EXPLANATION_SORTABLE'	 => 'Clique para ordenar',
 	'ATTACH_FORUM'					 => 'Anexo(s)',
 	'MCP_DETAILS_LOG'				 => 'Detalhes',
-	'MCP_DETAIL_U_IP'				 => 'Utilizador &amp; IP',
+	'MCP_DETAIL_U_IP'				 => 'Usuário &amp; IP',
 	'MCP_MANAG_BAN'					 => 'Administrar Expulsões',
 	'MCP_UNAPPROVED_POSTS_ZERO'		 => 'Não existem mensagens por aprovar',
 	'MCP_REPORTS_ZERO'				 => 'Não existem denúncias de Mensagens para rever',
@@ -142,7 +142,7 @@ $lang = array_merge($lang, array(
 	'POSTINGS_CAP'					 => 'Editor de Mensagens',
 	'CAPTION_POSTINGS'				 => 'A colocar conteúdo!',
 
-	'MCP_CAPTION'					 => 'É aqui que podes usar os teus Super-Poderes ;-)',
+	'MCP_CAPTION'					 => 'É aqui que pode usar os seus Super-Poderes ;-)',
 	'BOOTSTRAP_ELEMENT'				 => 'Elementos Bootstrap',
 	'BOOTSTRAP_ELEMENT_CAPTION'		 => 'Documentação do Fórum KickStart',
 	'MAIN_FORUM'					 => 'Fórum',
@@ -159,12 +159,12 @@ $lang = array_merge($lang, array(
 	'MORE'							 => 'Mais',
 	'EXPAND_CLOSE'					 => 'Fechar Vista',
 	'MARK_TOPICS_READ'				 => 'Marcar tópicos como lidos',
-	'CONTACT'						 => 'Contacto',
-	'GET_IN_TOUCH'					 => 'Entra em contacto',
+	'CONTACT'						 => 'Contato',
+	'GET_IN_TOUCH'					 => 'Entra em contato',
 	'HANG_AROUND'					 => 'Participa',
 	'JOIN_THE_CLUB'					 => 'Junta-te ao clube',
 	'MENU'							 => 'MENU',
-	'YOU_ARE_HERE'					 => 'Estás aqui',
+	'YOU_ARE_HERE'					 => 'Está aqui',
 	'IN_FOOTER'						 => 'Em:',
 	'REPLY'							 => 'Resposta',
 
@@ -177,23 +177,23 @@ $lang = array_merge($lang, array(
 
 	'CREATE_ACCOUNT_DISABLED'		 => 'Os registos estão encerrados',
 	'REGISTRATION_DISABLED'			 => 'Parece que os registos estão de momento encerrados, pode ser temporário. Se acha que é um erro, entre em contacto com o Administrador e informe sobre a situação. Pedimos desculpa pelo inconveniente. A nossa Política de Privacidade e Termos de Uso estão disponíveis em baixo.',
-	'CONTACT_WEBMASTER'				 => 'Contacta o Administrador',
-	'CONFIRM_QA_EXPLAIN_ALT'		 => 'Prova que és humano e responde à seguinte questão',
+	'CONTACT_WEBMASTER'				 => 'Contate o Administrador',
+	'CONFIRM_QA_EXPLAIN_ALT'		 => 'Prova que é humano e responda à seguinte questão',
 
 	'PLUPLOAD_PLACE_INLINE'			 => 'Adicionar',
 	'PLUPLOAD_DELETE_FILE'			 => 'Apagar',
 
 	
-	'REG_CREATING'					 => 'A Criar perfil...',
-	'LOADING'						 => 'A Carregar...',
-	'SAVING'						 => 'A Guardar...',
-	'CANCELLING'					 => 'A Cancelar...',
-	'SENDING'						 => 'A Enviar...',
-	'SEARCHING'						 => 'A Pesquisar...',
-	'LOADING_LOG_IN'				 => 'A Conectar-se...',
-	'FILE_UPLOADING'				 => 'A Enviar Ficheiro...',
-	'CASTING_VOTE'					 => 'A Enviar Voto...',
-	'LOADING_FORM'					 => 'A Carregar Formulário...',
+	'REG_CREATING'					 => 'Criando perfil...',
+	'LOADING'						 => 'Carregando...',
+	'SAVING'						 => 'Salvando...',
+	'CANCELLING'					 => 'Cancelando...',
+	'SENDING'						 => 'Enviando...',
+	'SEARCHING'						 => 'Pesquisando...',
+	'LOADING_LOG_IN'				 => 'Logando...',
+	'FILE_UPLOADING'				 => 'Fazendo upload...',
+	'CASTING_VOTE'					 => 'Enviando Voto...',
+	'LOADING_FORM'					 => 'Carregando Formulário...',
 
 
 	'MEMBERLIST_P_JOINED'			 => 'Registou-se no fórum',
@@ -203,7 +203,7 @@ $lang = array_merge($lang, array(
 	'SPAMMER_PLACEHOLDER'			 => 'Não podes simplesmente fazer Spam e sair impune!',
 	'MARK_PLACEHOLDER'				 => 'Coloque visto na sua escolha',
 	'INFO_BOX'						 => 'Informações:',
-	'USER_REMOVE_PLACEHOLDER'		 => 'Clique para remover o utilizador',
+	'USER_REMOVE_PLACEHOLDER'		 => 'Clique para remover o usuário',
 	'GROUP_REMOVE_PLACEHOLDER'		 => 'Clique para remover o grupo',
 	'EDIT_LINK_PLACEHOLDER'			 => 'Esqueci-me de colocar código nos meus endereços',
 	'POST_IT_UP_PLACEHOLDER'		 => 'Enviar!',
@@ -218,9 +218,9 @@ $lang = array_merge($lang, array(
 	'FILE_COMMENT_PLACEHOLDER'		 => 'Espaço reservado para comentários',
 	'HEIGTH_PLACEHOLDER'			 => 'altura',
 	'WIDTH_PLACEHOLDER'				 => 'largura',
-	'UCP_OCCUPATION_PLACEHOLDER'	 => 'Descreve de forma breve a tua profissão...',
-	'UCP_INTERESTS_PLACEHOLDER'		 => 'Descreve os teus interesses...',
-	'SOFT_DELETE_PLACEHOLDER'		 => 'Adiciona os teus motivos, caso desejes...',
+	'UCP_OCCUPATION_PLACEHOLDER'	 => 'Descreve de forma breve a sua profissão...',
+	'UCP_INTERESTS_PLACEHOLDER'		 => 'Descreve os seus interesses...',
+	'SOFT_DELETE_PLACEHOLDER'		 => 'Adiciona os seus motivos, caso deseje...',
 	'ADD_DESCRIPTION'				 => 'Adicionar descrição',
 
 	'FILE_SELECT'					 => 'Selecione o arquivo',
@@ -234,8 +234,8 @@ $lang = array_merge($lang, array(
 	'DISABLE_MESSAGE'				 => 'Fórum indisponível',
 	'DISABLE_RETURN'				 => 'Voltar à página de índice',
 	'BOARD_DISABLED_SHUFFLE'		 => 'Diverte-te e embaralha algumas letras :-)',
-	'DISABLE_TEXT_TRY'				 => 'Testa tu mesmo!',
-	'DISABLE_TEXT_TYPE'				 => 'Digite algo, e pressione retroceder...',
+	'DISABLE_TEXT_TRY'				 => 'Teste você mesmo!',
+	'DISABLE_TEXT_TYPE'				 => 'Digite algo, e pressione retornar...',
 
 	'GRAVATAR_EXPLAIN'				 => 'Se um <a href="//en.gravatar.com/" target="_blank">GRAVATAR</a> estiver associado ao seu endereço de e-mail, será usado por defeito.',
 	'GRAVATAR_EXPLAIN_CONFIRM'		 => 'Por favor, confirme o seu endereço de e-mail aqui',
@@ -287,10 +287,10 @@ $lang = array_merge($lang, array(
 
 	'SITESPLAT_TOTAL_POSTS'			 => 'Total de mensagens',
 	'SITESPLAT_TOTAL_TOPICS'		 => 'Total de tópicos',
-	'SITESPLAT_TOTAL_USERS'			 => 'Total de utilizadores',
-	'SITESPLAT_NEWEST_MEMBER'		 => 'Novo utilizador',
-	'SITESPLAT_USERS_ONLINE'		 => 'Utilizadores Online',
-	'SITESPLAT_MOST_USERS_ONLINE'	 => 'Recorde de Utilizadores Online',
+	'SITESPLAT_TOTAL_USERS'			 => 'Total de usuários',
+	'SITESPLAT_NEWEST_MEMBER'		 => 'Novo usuário',
+	'SITESPLAT_USERS_ONLINE'		 => 'Usuários Online',
+	'SITESPLAT_MOST_USERS_ONLINE'	 => 'Recorde de Usuários Online',
 	'SITESPLAT_BIRTHDAYS'	         => 'Aniversários de hoje',
 
 	'BOOTSTRAP_VERSION'				 => '3.3.6',
@@ -300,19 +300,19 @@ $lang = array_merge($lang, array(
 
 	'ADMIN_TIPS'					 => 'Truques e Dicas dos Administradores',
 	'ADMIN_TIP_INTRO'				 => 'Sabias que podes tornar o teu fórum phpBB ainda mais seguro com apenas alguns passos simples?',
-	'ADMIN_TIP_ONE'					 => 'Mantém o teu software actualizado.',
+	'ADMIN_TIP_ONE'					 => 'Mantenha o seu software atualizado.',
 	'ADMIN_TIP_TWO'					 => 'Usa sempre boas senhas que contenham seqüências aleatórias de números, letras e caracteres especiais.',
 	'ADMIN_TIP_THREE'				 => 'Restrinja o acesso à zona de administração...',
 	'ADMIN_CHECK_IT_BTN'			 => 'Visita SiteSplat.com para mais informação',
 
-	'USER_MINI_PROFILE'				 => 'Mini-perfil do utilizador',
+	'USER_MINI_PROFILE'				 => 'Mini-perfil do usuário',
 	'USER_MINI_PROFILE_VIEW_FULL'	 => 'Ver o perfil completo',
 	'OFF_LINE'						 => 'Desconectado',
-	'USER_STATUS'					 => 'Estado',
-	'USER'							 => 'Utilizador',
+	'USER_STATUS'					 => 'Status',
+	'USER'							 => 'Usuário',
 	'TITLE'							 => 'Título',
 	'END_TIMELINE'					 => 'Cronograma final',
-	'MEMBERS'						 => 'Utilizadores',
+	'MEMBERS'						 => 'Usuários',
 	'DRAFTS'						 => 'Rascunhos',
 	'REPORTS'						 => 'Denúncias',
 	'MODERATOR_LOGS'				 => 'Registos de Moderador',
@@ -333,6 +333,7 @@ $lang = array_merge($lang, array(
 	'BACK_TO_START'					 => 'VOLTAR AO INÍCIO',
 
 	'TOGGLE_NAV'					 => 'Navegação toggle',
+	'NAVIGATION'	                 => 'Navegação',
 
 	'DEMO_LINK'						 => 'Apenas demonstração, não existe ícones',
 	'DEMO_HEADER_MENU'				 => 'Exemplo de cabeçalho da introdução',
