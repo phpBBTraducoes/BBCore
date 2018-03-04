@@ -162,7 +162,7 @@ $lang = array_merge($lang, array(
 	'CONTACT'						 => 'Contato',
 	'GET_IN_TOUCH'					 => 'Entra em contato',
 	'HANG_AROUND'					 => 'Participa',
-	'JOIN_THE_CLUB'					 => 'Junta-te ao clube',
+	'JOIN_THE_CLUB'					 => 'Junta-se ao clube',
 	'MENU'							 => 'MENU',
 	'YOU_ARE_HERE'					 => 'Está aqui',
 	'IN_FOOTER'						 => 'Em:',
@@ -307,7 +307,7 @@ $lang = array_merge($lang, array(
 
 	'USER_MINI_PROFILE'				 => 'Mini-perfil do usuário',
 	'USER_MINI_PROFILE_VIEW_FULL'	 => 'Ver o perfil completo',
-	'OFF_LINE'						 => 'Desconectado',
+	'OFF_LINE'						 => 'Offline',
 	'USER_STATUS'					 => 'Status',
 	'USER'							 => 'Usuário',
 	'TITLE'							 => 'Título',
