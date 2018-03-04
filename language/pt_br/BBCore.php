@@ -178,7 +178,7 @@ $lang = array_merge($lang, array(
 	'CREATE_ACCOUNT_DISABLED'		 => 'Os registos estão encerrados',
 	'REGISTRATION_DISABLED'			 => 'Parece que os registos estão de momento encerrados, pode ser temporário. Se acha que é um erro, entre em contacto com o Administrador e informe sobre a situação. Pedimos desculpa pelo inconveniente. A nossa Política de Privacidade e Termos de Uso estão disponíveis em baixo.',
 	'CONTACT_WEBMASTER'				 => 'Contate o Administrador',
-	'CONFIRM_QA_EXPLAIN_ALT'		 => 'Prova que é humano e responda à seguinte questão',
+	'CONFIRM_QA_EXPLAIN_ALT'		 => 'Prove que é humano e responda à seguinte questão',
 
 	'PLUPLOAD_PLACE_INLINE'			 => 'Adicionar',
 	'PLUPLOAD_DELETE_FILE'			 => 'Apagar',
@@ -299,7 +299,7 @@ $lang = array_merge($lang, array(
 	'CHANGE_PASSWORD'				 => 'Alterar Senha',
 
 	'ADMIN_TIPS'					 => 'Truques e Dicas dos Administradores',
-	'ADMIN_TIP_INTRO'				 => 'Sabias que podes tornar o teu fórum phpBB ainda mais seguro com apenas alguns passos simples?',
+	'ADMIN_TIP_INTRO'				 => 'Sabia que pode tornar o seu fórum phpBB ainda mais seguro com apenas alguns passos simples?',
 	'ADMIN_TIP_ONE'					 => 'Mantenha o seu software atualizado.',
 	'ADMIN_TIP_TWO'					 => 'Usa sempre boas senhas que contenham seqüências aleatórias de números, letras e caracteres especiais.',
 	'ADMIN_TIP_THREE'				 => 'Restrinja o acesso à zona de administração...',
